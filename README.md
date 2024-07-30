@@ -27,7 +27,8 @@ The `prediction.ipynb` notebook details the steps to build and train a machine l
 3. **Data Preprocessing**: Scale the selected features using `MinMaxScaler`.
 4. **Model Training**: Train the model using time series cross-validation.
 5. **Prediction**: Make predictions based on the trained model.
-6. **Accuracy**: Test the accuracy of the model from different ranges from the predicted values.
+6. **Accuracy**: Test the accuracy of the model from different ranges from the predicted values and store the resuluts in a bar graph.
+![Accuracy Scores Bar Graph](accuracy_scores_bar_graph.png)
 
 ## How to Run
 
